@@ -1,12 +1,14 @@
 # Adult Income Prediction
 What variables impact an individual's income, which allows workforce planning and individual career decision making.  
 
-Columns Used For Analysis:
 |  Column Name  | Description  |
 |  ---  |  ---  |
-|  workclass  |  The type of employment (e.g., Private, Self-emp-not-inc, Federal-gov, Local-gov)  |
+|  workclass  |  The employment status of an individual  |
+|  fnlwhgt  |  Final weight - The number of people the census believes the entry represents  |
+|  education  |  The highest level of education achieved  |
 |  education-num  |  The numeric representation of the education level  |
 |  marital-status  |  The marital status of the individual  |
+|  |  <ul><li>Married.civ.spouse - Civilian spouse</li><li>Married.AF.spouse - Spouse in the Armed Forces</li></ul>  |
 |  occupation  |  The occupation of the individual  |
 |  race  |  The race of the individual  |
 |  sex  |  The gender of the individual  |
@@ -15,6 +17,8 @@ Columns Used For Analysis:
 |  hours-per-week  |  The number of hours the individual works per week  |
 |  salary  |  The income level of the individual **(Forecast Target Variable)**  |
 
-## Dataset
+## Resources
 Kaggle: [Adult Income Prediction](https://www.kaggle.com/code/asmahachaichi/adult-income-prediction)
 (15 Columns x 32561 Rows)
+
+[Column Notes](https://rpubs.com/Mr_President/income_prediction)
