@@ -21,4 +21,6 @@ What variables impact an individual's income, which allows workforce planning an
 Kaggle: [Adult Income Prediction](https://www.kaggle.com/code/asmahachaichi/adult-income-prediction)
 (15 Columns x 32561 Rows)
 
-[Column Notes](https://rpubs.com/Mr_President/income_prediction)
+Column Reference: [Column Notes](https://rpubs.com/Mr_President/income_prediction)
+
+Country Regions: [wikipedia](https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_the_United_Nations_geoscheme)
