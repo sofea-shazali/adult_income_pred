@@ -17,6 +17,17 @@ What variables impact an individual's income, which allows workforce planning an
 |  hours-per-week  |  The number of hours the individual works per week  |
 |  salary  |  The income level of the individual **(Forecast Target Variable)**  |
 
+## Data Science Questions:
+1. What are the common characteristics of individuals who earn more than $50K?
+2. What are the most common education levels for individuals earning more than 50K?
+3. How does the distribution of salary vary across different types of employment (workclass)?
+4. What is the relationship between age and income level?
+5. Do factors like education, occupation, and working hours contribute to their capital gains and losses?
+6. Does gender affect the salary of individuals with similar education levels and occupations?
+7. Is there a difference in hours worked per week between different workclass and their corresponding salaries?
+8. What is the probability of an individual earning more than $50K based on their education level and occupation?
+9. Is it possible to predict the salary category (<=50K or >50K) based on workclass, education, and hours-per-week?
+
 ## Resources
 Kaggle: [Adult Income Prediction](https://www.kaggle.com/code/asmahachaichi/adult-income-prediction)
 (15 Columns x 32561 Rows)
